@@ -1,7 +1,7 @@
 # Clone app ClubHouse
 
 ## Demonstration
-<img src="./assets/demo.png" alt="Demo-app">
+<img src="./assets/demo.PNG" alt="Demo-app">
 
 ----
  
